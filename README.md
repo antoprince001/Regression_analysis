@@ -3,7 +3,7 @@ Prediction of CPU job waiting time using regression techniques and time series a
 
 Usage of various Machine Learning algorithms to predict the waiting time for a CPU job based on past data from Auver Grid dataset.
 The models used are:
-    *  Linear Regression
+  \n*  Linear Regression
     *  Decision Tree
     *  Randomforest Regressor 
     *  Support Vector Regressor(SVR)
